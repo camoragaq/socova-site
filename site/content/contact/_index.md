@@ -2,7 +2,7 @@
 title: "Contacto"
 logo: "/img/socova-logo.pdf"
 contact_entries:
-  - heading: Estamos ubicados en:
+  - heading: Estamos ubicados en
     text: "direccion, Talca"
   - heading: Working hours
     text: "Lunes – Sabado: 9AM – 7PM"
