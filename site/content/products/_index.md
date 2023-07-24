@@ -1,7 +1,7 @@
 ---
-title: Our Coffee
+title: Nuestros servicios
 type: products
-image: /img/products-jumbotron.jpg
+image: /img/socova-foto.jpeg
 intro:
   heading: What we offer
   description: >-
