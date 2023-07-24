@@ -10,5 +10,4 @@ contact_entries:
 
 Estaremos atentos a ayudarte en lo que necesites, solo escribenos y nos comunicaremos contigo o llamanos al: 657563639
 
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
 
