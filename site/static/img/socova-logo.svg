@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1320.2865pt" height="383.1829pt" viewBox="0 0 1320.2865 383.1829">
+<defs>
+<clipPath id="clip_0">
+<path transform="matrix(1,0,0,-1,-306.2585,860.6769)" d="M0 0H1920V1080H0Z"/>
+</clipPath>
+</defs>
+<g clip-path="url(#clip_0)">
+<path transform="matrix(1,0,0,-1,-306.2585,860.6769)" d="M0 1080H1920V0H0Z" fill="#ffffff"/>
+<text fill="#f27200" xml:space="preserve" transform="matrix(1 0 -0 1 49.7417 282.2157)" font-size="293.56" font-family="HelveticaNeue" font-weight="bold"><tspan y="0" x="0 184.64926 407.16777 618.8245 841.343 1006.9109">SOCOVA</tspan></text>
+</g>
+</svg>
