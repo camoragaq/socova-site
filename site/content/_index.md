@@ -4,10 +4,10 @@ subtitle:
 image: /img/socova-foto0.jpg
 blurb:
     heading: Grúas Talca SOCOVA
-    text: "Servicio de rescate de vehículos. Grúas plataforma hidráulica para todo tipo vehículos livianos, furgones, maquinaria menor y transporte de cargas especiales. Servicio las 24 horas, atención expréss."
+    text: "Servicio de rescate de vehículos. Grúas plataforma hidráulica para todo tipo vehículos livianos, furgones, maquinaria menor y transporte de cargas especiales. Servicio las 24 horas, atención exprés. Llamanos o escríbenos al +56 927392855"
 intro:
     heading: "Lubricentro y vulcanización"
-    text: "Servicio automotor integral para el mantenimiento de vehículos."
+    text: "Servicio automotor integral para el mantenimiento de vehículos. Encuentranos en 39 oriente 701, Talca o al +56 977574305 "
 products:
     - image: img/socova-taller2.jpg
       text: "Lubricentro: Cambios de aceite – filtros – aditivos – refrigerantes – baterías – bujías- pastillas de freno – ampolletas – Neumáticos nuevos - accesorios.
