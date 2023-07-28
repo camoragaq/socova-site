@@ -2,7 +2,7 @@
 title: "Contacto"
 logo: "/img/socova-logo.svg"
 contact_entries:
-  - heading: Estamos ubicados en
+  - heading: Dirección
     text: "39 oriente 701, Talca"
   - heading: Horarios
     text: "de Lunes a Sabado: 9AM – 7PM"
